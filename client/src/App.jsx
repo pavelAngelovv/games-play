@@ -4,9 +4,7 @@ import Header from "./components/header/Header"
 import Home from "./components/home/Home"
 import Login from './components/login/Login'
 import Register from './components/register/Register'
-import GameEdit from './components/game-edit/GameEdit'
 import GameCreate from './components/game-create/GameCreate'
-import GameDetails from './components/game-details/GameDetails'
 import GameList from './components/game-list/GameList'
 
 function App() {
