@@ -1,16 +1,16 @@
 export default function Header() {
     return (
         <header>
-        <h1><a className="home" href="#">GamesPlay</a></h1>
+        <h1><a className="home" href="/">GamesPlay</a></h1>
         <nav>
-            <a href="#">All games</a>
+            <a href="/games">All games</a>
             <div id="user">
-                <a href="#">Create Game</a>
+                <a href="/games/create">Create Game</a>
                 <a href="#">Logout</a>
             </div>
             <div id="guest">
-                <a href="#">Login</a>
-                <a href="#">Register</a>
+                <a href="/login">Login</a>
+                <a href="/register">Register</a>
             </div>
         </nav>
     </header>
