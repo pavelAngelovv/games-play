@@ -1,0 +1,18 @@
+{
+    "e67bf1a2-3c67-4256-a790-177821704dea": {
+        "title": "Counter-Strike 2",
+        "category": "Action",
+        "maxLevel": "100",
+        "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg?t=1719426374",
+        "summary": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
+        "_id": "e67bf1a2-3c67-4256-a790-177821704dea"
+    },
+    "3376f384-ce23-4989-9f3b-92d92d1e8c58": {
+        "title": "Minecraft",
+        "category": "Sandbox, survival",
+        "maxLevel": "100",
+        "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.5lraCHEDuwl1UwggZ5Nw9gHaEK%26pid%3DApi&f=1&ipt=cc4fd86e50eb3a1c8a3c51b28e0c642bd24a322c64c1ce914a824a121f215920&ipo=images",
+        "summary": "Minecraft is a 2011 sandbox game developed and published by Mojang Studios. Originally created by Markus \"Notch\" Persson using the Java programming language, it was developed over the span of two years, with many public test builds being released from May 2009 until its full release on 18 November 2011.",
+        "_id": "3376f384-ce23-4989-9f3b-92d92d1e8c58"
+    }
+}
